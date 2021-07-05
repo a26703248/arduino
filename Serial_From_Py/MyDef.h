@@ -1,0 +1,12 @@
+#define RED_PIN 2
+#define GEEEN_PIN 3
+#define SERVO_PIN 4
+#define I2C_ADDR 0x27
+#define CDS_PIN A3
+#define DHT_TYPE DHT11
+#define DHT_PIN 5
+#define BUZEER_PIN 6
+#define BUTTON_PIN 7
+#define RST_PIN 9
+#define SDA_PIN 10
+#define RELAY_PIN 8
